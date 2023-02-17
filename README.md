@@ -6,7 +6,7 @@
 
 <div align = "center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=258FFA&height=300&section=header&text=One%20Developer%20is%20Better%20than%20Ten%20Coder&fontSize=30&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=258FFA&height=150&section=header&text=One%20Developer%20is%20Better%20than%20Ten%20Coder&fontSize=30&fontColor=ffffff)
 
 <div>
 
@@ -89,7 +89,7 @@ It's gonna be like that.. I'll stop joking around. 👋
 <br>
 <br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=258FFA&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=258FFA&height=100&section=footer)
 
 </div>
 
