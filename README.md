@@ -6,14 +6,14 @@
 
 <div align = "center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=258FFA&height=150&section=header&text=One%20Developer%20is%20Better%20than%20Ten%20Coder&fontSize=30&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=258FFA&height=200&section=header&text=One%20Developer%20is%20Better%20than%20Ten%20Coder&fontSize=30&fontColor=ffffff)
 
 <div>
 
-
 <br>
-<br>
-<br>
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyo009&layout=compact&theme=dark)
+ 
 
 
 <h4>💙 I worked on a team project while learning this language.💛</h4>
@@ -27,11 +27,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=plastic-square&logo=github&logoColor=white">
 
-<br>
-<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyo009&layout=compact&theme=dark)
-
+<br>
 <br>
 <br>
 <br>
@@ -52,8 +49,6 @@ It's gonna be like that.. I'll stop joking around. 👋
 <img src="https://img.shields.io/badge/MicrosoftExcel-217346?style=plastic-square&logo=MicrosoftExcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/MicrosoftPowerPoint-B7472A?style=plastic-square&logo=MicrosoftPowerPoint&logoColor=white"/>
 
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -85,7 +80,6 @@ It's gonna be like that.. I'll stop joking around. 👋
  <img src="https://img.shields.io/badge/LG-A50034?style=plastic-square&logo=LG&logoColor=white">
  <img src="https://img.shields.io/badge/LINE-00C300?style=plastic-square&logo=LINE&logoColor=white">
 
-<br>
 <br>
 <br>
 
