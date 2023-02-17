@@ -16,7 +16,7 @@
 <br>
 
 
-<h5>💙 I worked on a team project while learning this language.💛</h5>
+<h4>💙 I worked on a team project while learning this language.💛</h4>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white"/>
@@ -36,7 +36,7 @@
 <br>
 <br>
 
-<p align="center">
+<h4 align="center">
  Hi, I'm kimhyo009. I am a Korean🫶 <br>
 who has been studying to become a pretty useful developer since Nov. 2022. <br>
 When I first learned about this job, I thought it was really cool.  <br>
@@ -44,7 +44,7 @@ When I first learned about this job, I thought it was really cool.  <br>
 But now I'm a searcher, I can quickly find the best code. Just kidding:< <br>
 I learned it for 4 months 🌱 and I think it will get better.  <br>
 It's gonna be like that.. I'll stop joking around. 👋
-<p>
+</h4>
 
 <h5 align="center">💜I know how to do this, too😎💚</h5>
 <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=plastic-square&logo=AdobePhotoshop&logoColor=white"/>
@@ -58,7 +58,7 @@ It's gonna be like that.. I'll stop joking around. 👋
 <br>
 <br>
 
-<h5 align="center">Friends, your contact is always welcome💖 I'm serious. Please contact the company.🙏🙏</h5>
+<h4 align="center">Friends, your contact is always welcome💖 I'm serious. Please contact the company.🙏🙏</h4>
 <img src="https://img.shields.io/badge/Starbucks-006241?style=plastic-square&logo=Starbucks&logoColor=white">
 <img src="https://img.shields.io/badge/Steam-000000?style=plastic-square&logo=Steam&logoColor=white">
 <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=plastic-square&logo=AmazonAWS&logoColor=white">
