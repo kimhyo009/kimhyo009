@@ -36,7 +36,6 @@
 who has been studying to become a pretty useful developer since Nov. 2022. <br>
 When I first learned about this job, I thought it was really cool.  <br>
 💻Expectations were high for learning computer language.✨  <br>
-But now I'm a searcher, I can quickly find the best code. Just kidding:< <br>
 I learned it for 4 months 🌱 and I think it will get better.  <br>
 It's gonna be like that.. I'll stop joking around. 👋
 </h4>
